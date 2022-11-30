@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub: [Add solution URL here](https://github.com/johan1992/frontend-mentor-interactive-rating-component-main-johan)
+- Vercel app: [Add live site URL here](https://frontend-mentor-interactive-rating-component-main-johan.vercel.app/)
 
 ## My process
 
